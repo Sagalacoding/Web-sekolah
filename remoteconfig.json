@@ -1,0 +1,10 @@
+{
+  "conditions": [],
+  "parameters": {
+    "welcome_message": {
+      "defaultValue": {
+        "value": "Selamat datang di situs MTs Asshiddiqin!"
+      }
+    }
+  }
+}
